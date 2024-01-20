@@ -1,12 +1,12 @@
 def download_nltk_data():
    """
-   on dev
+   on master
 
    """
 
     # Standard library imports
 
-    import os # on dev
+    import os # on master
  
     # 3rd party imports
     import nltk
